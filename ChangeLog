@@ -1,0 +1,7 @@
+2013-11-30  Jeremy Bennett <jeremy@jeremybennett.com>
+
+	* ChangeLog: Created.
+	* .gitignore: Created.
+	* README.md: Created.
+	* arduino-code/doorbell/doorbell.ino: Created.
+	* arduino-code/doorbell/piteches.h: Created.
