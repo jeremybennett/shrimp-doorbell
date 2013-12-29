@@ -1,3 +1,12 @@
+2013-12-29  Jeremy Bennett <jeremy@jeremybennett.com>
+
+	* arduino-code/doorbell/doorbell.ino: include avr/sleep.h and
+	avr/wdt.h.
+	(melody): Set as Westminster chimes and increase to 16 entries
+	(noteDurations): Set 16 entries.
+	(setup): 16 notes in loop. Set code to disable ADC and power down
+	on finish.
+
 2013-11-30  Jeremy Bennett <jeremy@jeremybennett.com>
 
 	* ChangeLog: Created.
